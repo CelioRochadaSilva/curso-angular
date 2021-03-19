@@ -1,5 +1,10 @@
 # Curso Intermediário de Angular - disponibilizado Digital Innovation One
 
+# Algumas Ferramentas utilizadas.
+1. Angular CLI;
+2. Postmam;
+3. Visual Studio Code; 
+
 Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
