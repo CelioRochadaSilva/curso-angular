@@ -1,4 +1,4 @@
-# Curso Intermediário de Angular - disponibilizado Digital Innovation One
+# Curso Intermediário de Angular
 
 # Algumas Ferramentas utilizadas.
 1. Angular CLI;
