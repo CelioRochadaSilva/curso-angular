@@ -5,7 +5,7 @@
 2. Postmam;
 3. Visual Studio Code; 
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+# Tela primcipal
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
