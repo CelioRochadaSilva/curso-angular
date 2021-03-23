@@ -7,6 +7,11 @@
 
 # Tela primcipal
 
+# Tela de cadastro de filmes
+
+# Tela de genero de filmes
+
+
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
 ## Instalação : passos iniciais
