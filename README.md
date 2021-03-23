@@ -6,6 +6,8 @@
 3. Visual Studio Code; 
 
 # Tela primcipal
+![formularioedite](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
+
 
 # Tela de cadastro de filmes
 
