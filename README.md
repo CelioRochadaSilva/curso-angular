@@ -2,10 +2,11 @@
 
 # Tela principal
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal.png)
+Lista os filmes com opção de adicionar e remover filmes
 
 # Tela cadastro filmes
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-cadastro.png)
-Lista os filmes com opção de adicionar e remover filmes
+Disponibiliza formulario de cadastro para novos filmes
 
 # Tela genero filmes
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal-genero.png)
