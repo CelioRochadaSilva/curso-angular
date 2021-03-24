@@ -6,14 +6,14 @@
 3. Visual Studio Code; 
 
 # Tela primcipal
-![formularioedite](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
+![tela principal](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
 
 
 # Tela de cadastro de filmes
-![formularioedite](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
+![tela cadastro](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
 
 # Tela de genero de filmes
-![formularioedite](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
+![tela gemero filmes](C:\Users\Celio_pc\Documents\MeusProjetos\curso-angular\src\app\filmes\tela-app.png)
 
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
