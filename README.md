@@ -1,24 +1,25 @@
-# Curso Intermediário de Angular: fornecido pelo Digital innovation 
+# App Filmes: Curso Intermediário de Angular: fornecido pelo Digital innovation 2021
 
 # Tela principal
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal.png)
 
 # Tela cadastro filmes
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-cadastro.png)
+Lista os filmes com opção de adicionar e remover filmes
 
 # Tela genero filmes
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal-genero.png)
+Disponibilizar os filmes conforme genero.
 
 # Tela descrição
 ![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-descri%C3%A7%C3%A3o%20filme.png)
+Dados importantes do filmes
 
 # Algumas Ferramentas utilizadas.
 1. Angular CLI;
-2. Postmam;
-3. Visual Studio Code; 
-
-
-
+2. Angular material;
+3. Postmam;
+4. Visual Studio Code; 
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
