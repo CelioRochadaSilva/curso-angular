@@ -1,4 +1,16 @@
-# Curso Intermediário de Angular
+# Curso Intermediário de Angular: fornecido pelo Digital innovation 
+
+# Tela principal
+![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal.png)
+
+# Tela cadastro filmes
+![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-cadastro.png)
+
+# Tela genero filmes
+![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-principal-genero.png)
+
+# Tela descrição
+![Tela principal ](https://github.com/CelioRochadaSilva/curso-angular/blob/main/src/tela-descri%C3%A7%C3%A3o%20filme.png)
 
 # Algumas Ferramentas utilizadas.
 1. Angular CLI;
